@@ -188,4 +188,12 @@ tr:hover td{
       display: flex;
       flex-direction: column-reverse;
     }
-  }
+
+    .about-info {
+        margin-top: 10px;
+    }
+
+    p.home-info {
+        margin-top: 0px;
+    }
+}
